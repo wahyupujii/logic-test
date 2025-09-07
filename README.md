@@ -14,3 +14,6 @@ To run the tests, use the following command:
 ```bash
 yarn run test
 ```
+
+## Screenshot
+![alt text](image.png)
